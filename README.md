@@ -1,2 +1,2 @@
-# My first website
-# leavedesign2me.com
+# The Odin Project
+   leavedesign2me.com
