@@ -1,2 +1,3 @@
 # The Odin Project
-   <a href="http://www.theodinproject.com/">www.theodinproject.com</a>
+	1st Project - Creating Google Homepage
+   <a href="http://www.theodinproject.com/"  target="_blank">www.theodinproject.com</a>
