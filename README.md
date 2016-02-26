@@ -1,2 +1,2 @@
 # The Odin Project
-   leavedesign2me.com
+   <a href="http://www.theodinproject.com/">www.theodinproject.com</a>
